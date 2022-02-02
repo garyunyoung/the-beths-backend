@@ -1,9 +1,7 @@
-# Sanity Clean Content Studio
+# The Beths Backend
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+The backend of this project is built using [Sanity.io](https://www.sanity.io/), an open-source, API-based content management systen (CMS). 
 
-Now you can do the following things:
+The frontend of this project can be found here: https://github.com/garyunyoung/the-beths
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+https://thebeths.com/
