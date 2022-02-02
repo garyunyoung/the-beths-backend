@@ -6,7 +6,8 @@ export default {
     {
       name: 'email',
       title: 'Email',
-      type: 'string'
+      type: 'string',
+      validation: Rule => Rule.required()
     }
   ]
 }
