@@ -26,7 +26,8 @@ export default {
       name: 'album',
       title: 'Album',
       type: 'reference',
-      to: [{ type: 'album' }]
+      to: [{ type: 'album' }],
+      validation: Rule => Rule.required()
     }
   ]
 }
