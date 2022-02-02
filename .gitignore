@@ -1,0 +1,10 @@
+# dependencies
+node_modules
+
+# Mac files
+.DS_Store
+
+# Yarn
+yarn-error.log
+yarn.lock
+node_modules
