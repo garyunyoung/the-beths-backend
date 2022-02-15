@@ -20,6 +20,12 @@ export default {
       title: 'URL',
       type: 'url',
       validation: Rule => Rule.required()
+    },
+    {
+      name: 'isHidden',
+      title: 'Hide item',
+      type: 'boolean',
+      // validation: Rule => Rule.required()
     }
   ]
 }
